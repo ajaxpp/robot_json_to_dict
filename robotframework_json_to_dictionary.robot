@@ -4,7 +4,7 @@ Library  OperatingSystem
 
 *** Variables ***
 ${MY_DATA_TABLE_VALUES_TEMP}  {"foo": "this is foo", "bar": "this is bar"}
-${JSON_FILE}  ${EXECDIR}/training/robot/test.json
+${JSON_FILE}  ${EXECDIR}/test.json
 
 *** Keywords ***
 Converting a JSON File
